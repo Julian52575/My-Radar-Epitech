@@ -1,0 +1,17 @@
+./Makefile:35: illegal token in column 22, giving up (hint: fix the file or remove it from the working set)
+./a.out:1: MAJOR:C-O1
+./build.sh~:1: MAJOR:C-O1
+./my/#my_putchar.c#:1: MAJOR:C-O1
+./my/my_get_digits.c:17: MINOR:C-L3
+./my/my_get_digits.c~:1: MAJOR:C-O1
+./my/my_is_alpha.c~:1: MAJOR:C-O1
+./my/my_put_array.c~:1: MAJOR:C-O1
+./my/my_str_to_word_array.c~:1: MAJOR:C-O1
+./my_str_to_word_array.o:1: MAJOR:C-O1
+./test/a.out:1: MAJOR:C-O1
+./test/main.c:1: MINOR:C-G1
+./test/main.c:3: MINOR:C-L2
+./test/main.c:4: MINOR:C-L2
+./test/main.c:5: MINOR:C-L2
+./test/main.c:6: MINOR:C-L2
+./test/main.c~:1: MAJOR:C-O1
