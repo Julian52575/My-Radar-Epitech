@@ -1,5 +1,4 @@
-# My-radar
-Epitech Nancy project from 2023.  
+# My-radar Epitech Nancy 2023
 This is a simulation game realized in CSFML.  
 To load a simulation, run 
   ```./my_radar [scripts/script100.rdr] ```
