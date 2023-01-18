@@ -8,3 +8,6 @@ Or build your own with
 But
   ```make```
 sure you have built the binary before !
+
+There is a bunch of user interaction !    
+  do ```./my_radar -h```to see them all !
