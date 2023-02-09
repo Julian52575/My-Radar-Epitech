@@ -27,7 +27,6 @@ static int pikachu_colision2(struct my_radar *mr, struct csfml_tools *ct)
             continue;
         }
         if (all_edge_colision(mr->pika_rect, mr->a->rect) == 1) {
-            sfSound_play(mr->pika_hurt);
             remove_airplane(mr, mr->a, -1);
             mr->a = tmp_a;
             return 1;
